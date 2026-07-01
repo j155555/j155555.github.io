@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="492"/>
+  <unicode hex="0075"/>
+  <outline>
+    <component base="n" xScale="-1" yScale="-1" xOffset="492" yOffset="440" identifier="31C3A195"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-06-21 15:32:50 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n-10</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>31C3A195</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

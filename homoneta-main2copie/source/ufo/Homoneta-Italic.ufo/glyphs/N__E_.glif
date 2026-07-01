@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N_E" format="2">
+  <advance width="781"/>
+  <unicode hex="F3620"/>
+  <outline>
+    <contour>
+      <point x="669" y="105" type="line"/>
+      <point x="659" y="57" type="line"/>
+      <point x="637" y="38" type="line"/>
+      <point x="523" y="38" type="line"/>
+      <point x="494" y="60" type="line"/>
+      <point x="542" y="289" type="line"/>
+      <point x="571" y="311" type="line"/>
+      <point x="670" y="311" type="line"/>
+      <point x="692" y="292" type="line"/>
+      <point x="692" y="262" type="line"/>
+      <point x="720" y="262" type="line"/>
+      <point x="747" y="394" type="line"/>
+      <point x="719" y="394" type="line"/>
+      <point x="710" y="366" type="line"/>
+      <point x="688" y="347" type="line"/>
+      <point x="579" y="347" type="line"/>
+      <point x="560" y="369" type="line"/>
+      <point x="595" y="540" type="line"/>
+      <point x="624" y="562" type="line"/>
+      <point x="711" y="562" type="line"/>
+      <point x="733" y="543" type="line"/>
+      <point x="742" y="497" type="line"/>
+      <point x="770" y="497" type="line"/>
+      <point x="791" y="600" type="line"/>
+      <point x="546" y="599" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="675" y="0" type="line"/>
+      <point x="697" y="105" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-03-07 08:52:48 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x_c_e_s" format="2">
+  <advance width="1039"/>
+  <unicode hex="F5730"/>
+  <outline>
+    <component base="x_s_e_s" identifier="3F2BB9B5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-27 18:08:32 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>s</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3F2BB9B5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

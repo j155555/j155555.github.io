@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L_U_I" format="2">
+  <advance width="955"/>
+  <unicode hex="F3260"/>
+  <outline>
+    <contour>
+      <point x="622" y="-190" type="curve" smooth="yes"/>
+      <point x="778" y="-191"/>
+      <point x="845" y="-110"/>
+      <point x="848" y="63" type="curve" smooth="yes"/>
+      <point x="850" y="177"/>
+      <point x="849" y="273"/>
+      <point x="848" y="359" type="curve" smooth="yes"/>
+      <point x="848" y="370" type="line"/>
+      <point x="867" y="392" type="line"/>
+      <point x="915" y="392" type="line"/>
+      <point x="915" y="420" type="line"/>
+      <point x="721" y="420" type="line"/>
+      <point x="721" y="392" type="line"/>
+      <point x="771" y="392" type="line"/>
+      <point x="790" y="370" type="line"/>
+      <point x="790" y="358" type="line" smooth="yes"/>
+      <point x="789" y="297"/>
+      <point x="789" y="216"/>
+      <point x="790" y="49" type="curve" smooth="yes"/>
+      <point x="791" y="-92"/>
+      <point x="725" y="-141"/>
+      <point x="641" y="-142" type="curve" smooth="yes"/>
+      <point x="547" y="-143"/>
+      <point x="481" y="-101"/>
+      <point x="481" y="38" type="curve" smooth="yes"/>
+      <point x="481" y="370" type="line"/>
+      <point x="500" y="392" type="line"/>
+      <point x="548" y="392" type="line"/>
+      <point x="548" y="420" type="line"/>
+      <point x="322" y="420" type="line"/>
+      <point x="322" y="392" type="line"/>
+      <point x="372" y="392" type="line"/>
+      <point x="391" y="370" type="line"/>
+      <point x="391" y="187" type="line"/>
+      <point x="391" y="130" type="line"/>
+      <point x="391" y="46" type="line" smooth="yes"/>
+      <point x="391" y="-137"/>
+      <point x="488" y="-189"/>
+    </contour>
+    <contour>
+      <point x="40" y="130" type="line"/>
+      <point x="651" y="130" type="line"/>
+      <point x="651" y="235" type="line"/>
+      <point x="623" y="235" type="line"/>
+      <point x="623" y="187" type="line"/>
+      <point x="601" y="168" type="line"/>
+      <point x="211" y="168" type="line"/>
+      <point x="192" y="190" type="line"/>
+      <point x="192" y="600" type="line"/>
+      <point x="109" y="600" type="line"/>
+      <point x="109" y="180" type="line"/>
+      <point x="90" y="158" type="line"/>
+      <point x="40" y="158" type="line"/>
+    </contour>
+    <component base="dotaccentcomb" xOffset="697" yOffset="-48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-03-07 08:50:08 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>I</string>
+    </dict>
+  </lib>
+</glyph>

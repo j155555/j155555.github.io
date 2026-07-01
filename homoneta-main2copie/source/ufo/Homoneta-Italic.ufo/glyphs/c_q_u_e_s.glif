@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_q_u_e_s" format="2">
+  <advance width="1331"/>
+  <unicode hex="F1570"/>
+  <outline>
+    <component base="c_q_u_e"/>
+    <component base="inclusive_s" xOffset="970" identifier="AF9E83FA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-27 18:12:53 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>s</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AF9E83FA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

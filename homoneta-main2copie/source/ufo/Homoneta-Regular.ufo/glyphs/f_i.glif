@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_i" format="2">
+  <advance width="471"/>
+  <outline>
+    <contour>
+      <point x="252" y="0" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="461" y="28" type="line"/>
+      <point x="413" y="28" type="line"/>
+      <point x="394" y="50" type="line"/>
+      <point x="394" y="440" type="line"/>
+      <point x="240" y="440" type="line"/>
+      <point x="240" y="417" type="line"/>
+      <point x="299" y="396" type="line"/>
+      <point x="321" y="377" type="line"/>
+      <point x="321" y="50" type="line"/>
+      <point x="302" y="28" type="line"/>
+      <point x="252" y="28" type="line"/>
+    </contour>
+    <component base="f" identifier="B3F49F83"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-06-21 15:32:50 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>B3F49F83</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

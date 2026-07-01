@@ -1,0 +1,23 @@
+RECHERCHES TYPOGRAPHIQUES
+
+En biologie évolutive, l’atavisme est la réapparition d’un caractère ancestral chez un·e individu·e qui ne devrait pas le posséder ; un trait perdu ou bien transformé au cours de l’évolution. En typographie, il peut s’apparenter à l’hybridation typographique, ce qui naturellement a orienté la recherche vers les classifications typographiques et « les fontes dites “ hybrides ” à notre époque où les formes typographiques sont empruntées, modifiées et/ou renouvelées à l’infini, et tentent de mettre à mal toute catégorie. » (Laurent Müller, Essai d’une refonte des classifications, essai d’une reclassification de fontes \[mémoire\]. Bruxelles : erg, 2018.)
+
+Le caractère Homoneta voyage à travers les âges et croise les époques en empruntant diverses caractéristiques typographiques. Héritage des mécanes : les empattements sont carrés (formés par effets d’optique avec une transition nette sur le fût, leur donnant un effet arrondi). Héritage des linéales : l’axe de construction est droit. Héritage de l’outil plume : les pleins et déliés sont marqués et les terminaisons en goutte. Héritage des ouvrages manuscrits : l’usage des ligatures est accentué, et celles-ci paraissent alors être de nouveaux graphèmes. Héritage ornemental : les ligatures inclusives capitales sont dessinées à la manière de monogrammes. Héritage moyenâgeux : la languette du « e » est étirée, comme une partie atrophiée qui sert de base à la construction des ligatures. D’autres lettres sont nettement tranchées aux attaques, sans héritage typographique spécifique, ce qui pourrait être une partie perdue au fil de l’évolution.
+
+NOTES INTRODUCTIVES
+
+L’histoire ne cesse de se réécrire et se compose en fragments de récits formant un tout. C’est entre ces fragments que se situent nos croyances : entre ce qui est et ce qui n’est pas ; des espaces mentaux dans lesquels résident des constructions imaginaires & fictives qui justifient nos croyances, guident nos comportements et nous inculquent des valeurs. “ If you believe in things, you create things that justify their existence ” (extrait de Treasures From the Wreck of the Unbelievable, Damien Hirst, 2017.)
+
+Tout comme une religion, la monnaie est un système qui nous demande de croire. Alors qu’une religion nous demande de croire à l’existence d’une divinité suprême attestant la vie sur terre, le principe de la monnaie est de demander à un·e individu·e de croire que d’autres inconnu·es adhèrent à ce système afin de procéder à un échange. La monnaie, comme un mythe, est un facteur incomparable de la condition humaine : un artefact symbolisant l’aptitude à créer, former des aspirations et d’y croire.
+
+Homoneta est une police de caractères dessinée dans le but d’attester le mythe de la monnaie à travers la fiction Et Homo créa la Matière. Le récit consiste en une adaptation de La Genèse dans laquelle nous suivons l’évolution d’Homo, personnage mythique & emblématique qui à i·el seul·e incarne l’ensemble de l’humanité et la création de la monnaie.
+
+NOTES D'INTENTION
+
+La monnaie est une coulée de matière - communément ronde - formant un support dans lequel est engagée une valeur d’échange et la représentation collective de cette valeur. Pour le dire autrement, la valeur de la monnaie n’est pas une réalité matérielle due à sa matière, mais une construction psychologique que nous déposons dans cette matière et dont le fonctionnement opère uniquement par croyance & confiance collectives.
+
+Sa crédibilité découle d’un acte d’autorité qui donne à la monnaie une valeur morale supérieure. L’origine même de la monnaie apparaît dans un contexte religieux sous la forme d'offrande à la déesse Artémis par le roi Crésus au temple de Delphes, et continue de se révéler comme expression religieuse en utilisant des images liées au divin telles que des représentations de lieux de culte ou figures divines. Sur le dollar, la mention “In God we trust” est un exemple de la portée autoritaire et divine du phénomène monétaire : une hallucination collective dictée par l’état qui fédère des adeptes.
+
+La valeur engagée dans une pièce de monnaie est non seulement psychologique, mais aussi visuelle : elle est identifiée par une marque frappée ou gravée qui, au fil du temps, a pris diverses formes. Marques géométriques, emblèmes, dessins, signatures, écritures ou chiffres permettant à la fois un processus comptable, d’échanges de biens & services, et d’affirmer l’autorité émettrice - de façon à garantir la valeur et la quantité de métal entrant dans chaque pièce.
+
+À la manière d’une frappe monétaire, Homoneta se présente comme une marque distinctive, une imagerie incarnée par une série de sigles véhiculant un discours ornemental - tout en symbolisant une autorité émettrice : Homo.

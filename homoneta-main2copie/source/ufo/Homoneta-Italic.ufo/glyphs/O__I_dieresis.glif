@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O_Idieresis" format="2">
+  <advance width="589"/>
+  <unicode hex="F3870"/>
+  <outline>
+    <contour>
+      <point x="257" y="-39" type="line"/>
+      <point x="398" y="600" type="line"/>
+      <point x="319" y="600" type="line"/>
+      <point x="174" y="-61" type="line"/>
+      <point x="109" y="-61" type="line"/>
+      <point x="109" y="-89" type="line"/>
+      <point x="324" y="-89" type="line"/>
+      <point x="324" y="-61" type="line"/>
+      <point x="276" y="-61" type="line"/>
+    </contour>
+    <component base="O" identifier="03496195"/>
+    <component base="dieresiscomb" xOffset="209" yOffset="100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-03-07 08:53:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>03496195</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

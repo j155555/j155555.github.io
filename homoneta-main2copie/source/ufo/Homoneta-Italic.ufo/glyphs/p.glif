@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="507"/>
+  <unicode hex="0070"/>
+  <outline>
+    <component base="d" xScale="-1" yScale="-1" xOffset="507" yOffset="440" identifier="018435FD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-06-21 15:32:50 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>018435FD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

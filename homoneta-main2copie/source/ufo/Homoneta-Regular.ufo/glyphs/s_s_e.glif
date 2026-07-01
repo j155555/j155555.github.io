@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="s_s_e" format="2">
+  <advance width="856"/>
+  <unicode hex="F47A0"/>
+  <outline>
+    <contour>
+      <point x="680" y="-180" type="curve" smooth="yes"/>
+      <point x="761" y="-180"/>
+      <point x="835" y="-108"/>
+      <point x="846" y="-27" type="curve"/>
+      <point x="823" y="-19" type="line"/>
+      <point x="794" y="-93"/>
+      <point x="725" y="-141"/>
+      <point x="680" y="-141" type="curve" smooth="yes"/>
+      <point x="610" y="-141"/>
+      <point x="558" y="-60"/>
+      <point x="568" y="90" type="curve"/>
+      <point x="802" y="90" type="line"/>
+      <point x="802" y="120" type="line"/>
+      <point x="555" y="120" type="line"/>
+      <point x="555" y="124" type="line" smooth="yes"/>
+      <point x="555" y="196"/>
+      <point x="473" y="241"/>
+      <point x="390" y="271" type="curve" smooth="yes"/>
+      <point x="346" y="287"/>
+      <point x="309" y="307"/>
+      <point x="313" y="353" type="curve" smooth="yes"/>
+      <point x="315" y="393"/>
+      <point x="354" y="426"/>
+      <point x="396" y="426" type="curve" smooth="yes"/>
+      <point x="436" y="424"/>
+      <point x="455" y="403"/>
+      <point x="451" y="370" type="curve"/>
+      <point x="445" y="351"/>
+      <point x="448" y="339"/>
+      <point x="453" y="330" type="curve" smooth="yes"/>
+      <point x="464" y="310"/>
+      <point x="487" y="299"/>
+      <point x="508" y="308" type="curve" smooth="yes"/>
+      <point x="534" y="319"/>
+      <point x="536" y="353"/>
+      <point x="522" y="386" type="curve" smooth="yes"/>
+      <point x="503" y="430"/>
+      <point x="452" y="450"/>
+      <point x="393" y="450" type="curve" smooth="yes"/>
+      <point x="352" y="450"/>
+      <point x="314" y="435"/>
+      <point x="290" y="410" type="curve"/>
+      <point x="265" y="438"/>
+      <point x="223" y="450"/>
+      <point x="176" y="450" type="curve" smooth="yes"/>
+      <point x="102" y="450"/>
+      <point x="40" y="402"/>
+      <point x="40" y="327" type="curve" smooth="yes"/>
+      <point x="40" y="254"/>
+      <point x="89" y="224"/>
+      <point x="166" y="192" type="curve" smooth="yes"/>
+      <point x="224" y="168"/>
+      <point x="266" y="150"/>
+      <point x="273" y="110" type="curve" smooth="yes"/>
+      <point x="281" y="63"/>
+      <point x="234" y="22"/>
+      <point x="190" y="22" type="curve" smooth="yes"/>
+      <point x="137" y="22"/>
+      <point x="81" y="79"/>
+      <point x="73" y="169" type="curve"/>
+      <point x="47" y="169" type="line"/>
+      <point x="47" y="24" type="line"/>
+      <point x="71" y="24" type="line"/>
+      <point x="71" y="38" type="line"/>
+      <point x="88" y="38" type="line"/>
+      <point x="129" y="4"/>
+      <point x="143" y="-10"/>
+      <point x="195" y="-10" type="curve" smooth="yes"/>
+      <point x="263" y="-10"/>
+      <point x="338" y="25"/>
+      <point x="338" y="124" type="curve" smooth="yes"/>
+      <point x="338" y="196"/>
+      <point x="256" y="241"/>
+      <point x="173" y="271" type="curve" smooth="yes"/>
+      <point x="145" y="281"/>
+      <point x="109" y="288"/>
+      <point x="98" y="335" type="curve" smooth="yes"/>
+      <point x="87" y="383"/>
+      <point x="131" y="426"/>
+      <point x="179" y="426" type="curve" smooth="yes"/>
+      <point x="276" y="421"/>
+      <point x="252" y="369"/>
+      <point x="258" y="309" type="curve" smooth="yes"/>
+      <point x="266" y="248"/>
+      <point x="313" y="221"/>
+      <point x="383" y="192" type="curve" smooth="yes"/>
+      <point x="437" y="170"/>
+      <point x="484" y="155"/>
+      <point x="484" y="120" type="curve" smooth="yes"/>
+      <point x="484" y="98"/>
+      <point x="479" y="78"/>
+      <point x="479" y="54" type="curve" smooth="yes"/>
+      <point x="479" y="-78"/>
+      <point x="556" y="-180"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-27 18:11:06 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>s</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

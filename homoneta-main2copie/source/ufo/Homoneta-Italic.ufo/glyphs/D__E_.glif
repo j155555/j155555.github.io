@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D_E" format="2">
+  <advance width="560"/>
+  <unicode hex="F1610"/>
+  <outline>
+    <contour>
+      <point x="89" y="247" type="line"/>
+      <point x="169" y="247" type="line"/>
+      <point x="178" y="289" type="line"/>
+      <point x="207" y="311" type="line"/>
+      <point x="306" y="311" type="line"/>
+      <point x="328" y="292" type="line"/>
+      <point x="328" y="262" type="line"/>
+      <point x="356" y="262" type="line"/>
+      <point x="383" y="394" type="line"/>
+      <point x="355" y="394" type="line"/>
+      <point x="346" y="366" type="line"/>
+      <point x="324" y="347" type="line"/>
+      <point x="215" y="347" type="line"/>
+      <point x="196" y="369" type="line"/>
+      <point x="208" y="428" type="line"/>
+      <point x="126" y="427" type="line"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-03-07 08:40:20 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

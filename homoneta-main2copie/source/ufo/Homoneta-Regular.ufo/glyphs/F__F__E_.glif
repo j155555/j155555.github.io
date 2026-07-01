@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F_F_E" format="2">
+  <advance width="1001"/>
+  <unicode hex="F2030"/>
+  <outline>
+    <contour>
+      <point x="834" y="0" type="line"/>
+      <point x="834" y="28" type="line"/>
+      <point x="784" y="28" type="line"/>
+      <point x="765" y="50" type="line"/>
+      <point x="765" y="601" type="line"/>
+      <point x="413" y="601" type="line"/>
+      <point x="413" y="495" type="line"/>
+      <point x="441" y="495" type="line"/>
+      <point x="441" y="543" type="line"/>
+      <point x="463" y="562" type="line"/>
+      <point x="663" y="562" type="line"/>
+      <point x="682" y="540" type="line"/>
+      <point x="682" y="369" type="line"/>
+      <point x="663" y="347" type="line"/>
+      <point x="534" y="347" type="line"/>
+      <point x="512" y="366" type="line"/>
+      <point x="512" y="393" type="line"/>
+      <point x="484" y="393" type="line"/>
+      <point x="484" y="264" type="line"/>
+      <point x="512" y="264" type="line"/>
+      <point x="512" y="292" type="line"/>
+      <point x="534" y="311" type="line"/>
+      <point x="663" y="311" type="line"/>
+      <point x="682" y="289" type="line"/>
+      <point x="682" y="50" type="line"/>
+      <point x="663" y="28" type="line"/>
+      <point x="615" y="28" type="line"/>
+      <point x="615" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="239" y="28" type="line"/>
+      <point x="191" y="28" type="line"/>
+      <point x="172" y="50" type="line"/>
+      <point x="172" y="289" type="line"/>
+      <point x="191" y="311" type="line"/>
+      <point x="320" y="311" type="line"/>
+      <point x="342" y="292" type="line"/>
+      <point x="342" y="264" type="line"/>
+      <point x="370" y="264" type="line"/>
+      <point x="370" y="393" type="line"/>
+      <point x="342" y="393" type="line"/>
+      <point x="342" y="366" type="line"/>
+      <point x="320" y="347" type="line"/>
+      <point x="191" y="347" type="line"/>
+      <point x="172" y="369" type="line"/>
+      <point x="172" y="540" type="line"/>
+      <point x="191" y="562" type="line"/>
+      <point x="391" y="562" type="line"/>
+      <point x="413" y="543" type="line"/>
+      <point x="413" y="495" type="line"/>
+      <point x="441" y="495" type="line"/>
+      <point x="441" y="601" type="line"/>
+      <point x="89" y="601" type="line"/>
+      <point x="89" y="50" type="line"/>
+      <point x="70" y="28" type="line"/>
+      <point x="20" y="28" type="line"/>
+    </contour>
+    <contour>
+      <point x="610" y="0" type="line"/>
+      <point x="971" y="0" type="line"/>
+      <point x="971" y="105" type="line"/>
+      <point x="943" y="105" type="line"/>
+      <point x="943" y="57" type="line"/>
+      <point x="921" y="38" type="line"/>
+      <point x="781" y="38" type="line"/>
+      <point x="762" y="60" type="line"/>
+      <point x="762" y="289" type="line"/>
+      <point x="781" y="311" type="line"/>
+      <point x="870" y="311" type="line"/>
+      <point x="892" y="292" type="line"/>
+      <point x="892" y="262" type="line"/>
+      <point x="920" y="262" type="line"/>
+      <point x="920" y="394" type="line"/>
+      <point x="892" y="394" type="line"/>
+      <point x="892" y="366" type="line"/>
+      <point x="870" y="347" type="line"/>
+      <point x="781" y="347" type="line"/>
+      <point x="762" y="369" type="line"/>
+      <point x="762" y="540" type="line"/>
+      <point x="781" y="562" type="line"/>
+      <point x="869" y="562" type="line"/>
+      <point x="891" y="543" type="line"/>
+      <point x="891" y="497" type="line"/>
+      <point x="919" y="497" type="line"/>
+      <point x="919" y="600" type="line"/>
+      <point x="679" y="599" type="line"/>
+      <point x="679" y="50" type="line"/>
+      <point x="660" y="28" type="line"/>
+      <point x="610" y="28" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-03-07 08:45:10 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>F</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

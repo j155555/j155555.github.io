@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C_Q" format="2">
+  <advance width="782"/>
+  <unicode hex="F1440"/>
+  <outline>
+    <component base="C" xScale="-1" xOffset="576" identifier="BB10B80B"/>
+    <component base="Q" xOffset="180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-03-07 08:40:04 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>C</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Q</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>BB10B80B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I_E_L" format="2">
+  <advance width="874"/>
+  <unicode hex="F2620"/>
+  <outline>
+    <contour>
+      <point x="10" y="61" type="line"/>
+      <point x="161" y="61" type="line"/>
+      <point x="161" y="455" type="line"/>
+      <point x="79" y="455" type="line"/>
+      <point x="79" y="103" type="line"/>
+      <point x="60" y="85" type="line"/>
+      <point x="10" y="85" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="-181" type="line"/>
+      <point x="431" y="-181" type="line"/>
+      <point x="431" y="-76" type="line"/>
+      <point x="403" y="-76" type="line"/>
+      <point x="403" y="-124" type="line"/>
+      <point x="381" y="-143" type="line"/>
+      <point x="181" y="-143" type="line"/>
+      <point x="162" y="-121" type="line"/>
+      <point x="162" y="26" type="line"/>
+      <point x="181" y="48" type="line"/>
+      <point x="330" y="48" type="line"/>
+      <point x="352" y="29" type="line"/>
+      <point x="352" y="-1" type="line"/>
+      <point x="380" y="-1" type="line"/>
+      <point x="380" y="131" type="line"/>
+      <point x="352" y="131" type="line"/>
+      <point x="352" y="103" type="line"/>
+      <point x="330" y="84" type="line"/>
+      <point x="181" y="84" type="line"/>
+      <point x="162" y="106" type="line"/>
+      <point x="162" y="289" type="line"/>
+      <point x="181" y="311" type="line"/>
+      <point x="329" y="311" type="line"/>
+      <point x="351" y="292" type="line"/>
+      <point x="351" y="246" type="line"/>
+      <point x="379" y="246" type="line"/>
+      <point x="379" y="349" type="line"/>
+      <point x="79" y="348" type="line"/>
+      <point x="79" y="-131" type="line"/>
+      <point x="60" y="-153" type="line"/>
+      <point x="10" y="-153" type="line"/>
+    </contour>
+    <component base="dotaccentcomb" yOffset="-2"/>
+    <component base="L" xOffset="393"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-27 18:17:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

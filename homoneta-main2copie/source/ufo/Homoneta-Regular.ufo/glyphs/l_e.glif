@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_e" format="2">
+  <advance width="427"/>
+  <unicode hex="F3310"/>
+  <outline>
+    <contour>
+      <point x="132" y="203" type="line"/>
+      <point x="132" y="600" type="line"/>
+      <point x="-31" y="544" type="line"/>
+      <point x="-31" y="521" type="line"/>
+      <point x="28" y="521" type="line"/>
+      <point x="50" y="502" type="line"/>
+      <point x="50" y="223" type="line"/>
+    </contour>
+    <component base="inclusive_e" xOffset="20" identifier="7D0CA8A9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-27 18:14:17 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7D0CA8A9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

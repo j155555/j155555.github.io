@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflex_T_E" format="2">
+  <advance width="908"/>
+  <unicode hex="F1890"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="441" y="105" type="line"/>
+      <point x="413" y="105" type="line"/>
+      <point x="413" y="57" type="line"/>
+      <point x="391" y="38" type="line"/>
+      <point x="191" y="38" type="line"/>
+      <point x="172" y="60" type="line"/>
+      <point x="172" y="289" type="line"/>
+      <point x="191" y="311" type="line"/>
+      <point x="340" y="311" type="line"/>
+      <point x="362" y="292" type="line"/>
+      <point x="362" y="262" type="line"/>
+      <point x="390" y="262" type="line"/>
+      <point x="390" y="310" type="line"/>
+      <point x="522" y="310" type="line"/>
+      <point x="541" y="288" type="line"/>
+      <point x="541" y="-130" type="line"/>
+      <point x="522" y="-152" type="line"/>
+      <point x="472" y="-152" type="line"/>
+      <point x="472" y="-180" type="line"/>
+      <point x="822" y="-180" type="line"/>
+      <point x="822" y="-75" type="line"/>
+      <point x="794" y="-75" type="line"/>
+      <point x="794" y="-123" type="line"/>
+      <point x="772" y="-142" type="line"/>
+      <point x="642" y="-142" type="line"/>
+      <point x="623" y="-120" type="line"/>
+      <point x="623" y="56" type="line"/>
+      <point x="642" y="78" type="line"/>
+      <point x="721" y="78" type="line"/>
+      <point x="743" y="59" type="line"/>
+      <point x="743" y="29" type="line"/>
+      <point x="771" y="29" type="line"/>
+      <point x="771" y="161" type="line"/>
+      <point x="743" y="161" type="line"/>
+      <point x="743" y="133" type="line"/>
+      <point x="721" y="114" type="line"/>
+      <point x="642" y="114" type="line"/>
+      <point x="623" y="136" type="line"/>
+      <point x="623" y="288" type="line"/>
+      <point x="642" y="310" type="line"/>
+      <point x="797" y="310" type="line"/>
+      <point x="813" y="292" type="line"/>
+      <point x="813" y="244" type="line"/>
+      <point x="832" y="244" type="line"/>
+      <point x="878" y="347" type="line"/>
+      <point x="390" y="347" type="line"/>
+      <point x="390" y="394" type="line"/>
+      <point x="362" y="394" type="line"/>
+      <point x="362" y="366" type="line"/>
+      <point x="340" y="347" type="line"/>
+      <point x="191" y="347" type="line"/>
+      <point x="172" y="369" type="line"/>
+      <point x="172" y="600" type="line"/>
+      <point x="89" y="599" type="line"/>
+      <point x="89" y="50" type="line"/>
+      <point x="70" y="28" type="line"/>
+      <point x="20" y="28" type="line"/>
+    </contour>
+    <component base="circumflexcomb" xOffset="130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-03-07 08:41:35 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="copyright" format="2">
+  <advance width="851"/>
+  <unicode hex="00A9"/>
+  <outline>
+    <component base="c" xOffset="209" yOffset="30" identifier="876303F0"/>
+    <component base="whiteCircle"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2022-03-09 21:15:27 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>876303F0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

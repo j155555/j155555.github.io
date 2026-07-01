@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o_t_e" format="2">
+  <advance width="471"/>
+  <unicode hex="F3950"/>
+  <outline>
+    <component base="o"/>
+    <component base="t_t_e.alt02" xOffset="313" yOffset="90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-02-27 18:10:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

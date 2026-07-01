@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D_U_D_E_L_A" format="2">
+  <advance width="2369"/>
+  <unicode hex="F1630"/>
+  <outline>
+    <component base="D"/>
+    <component base="U" xOffset="570"/>
+    <component base="E" xOffset="895" yOffset="-179" identifier="709D1502"/>
+    <component base="L" xOffset="1373" yOffset="-179" identifier="414C37DA"/>
+    <component base="A" xOffset="1854" yOffset="-179"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-03-07 08:40:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>414C37DA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>709D1502</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
