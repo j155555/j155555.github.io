@@ -2,3 +2,9 @@
     font-weight: bold;
 }
 body {color: #ff00b3;}
+p {
+    font-family: homoneta;
+    src: url(jeanne.correaluna/Bureau/pourtestsitetext/homoneta-main2copie);
+    font-weight: 400;
+    font-size: medium;
+}
